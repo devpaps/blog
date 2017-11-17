@@ -1,0 +1,5 @@
+baseURL : "https://devpaps.github.io/blog/"
+publishDir : "docs"
+languageCode : "en-us"
+title : "Lars Jönsson"
+theme : "pickles"
