@@ -1,7 +1,7 @@
 ---
 title: "Tiden på Högskolan Väst"
 date: 2017-11-17T20:00:39+01:00
-draft: true
+draft: false
 ---
 
 # Mitt första inlägg
