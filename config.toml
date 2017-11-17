@@ -1,4 +1,4 @@
-baseURL = "https://devpaps.github.io/blog/"
+baseURL = "http://devpaps.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Lars Jönsson"
